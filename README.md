@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-
+---
 
 
 ### 📊 GitHub Stats and Contributions
@@ -67,6 +67,7 @@
 </a>
 
 
+
 ---
 
 <p align="center">
@@ -76,7 +77,7 @@
 
 
 
-
+---
 
 ![snake gif](https://github.com/Tejas-Solanki3/Tejas-Solanki3/blob/output/github-snake-dark.svg)
 
