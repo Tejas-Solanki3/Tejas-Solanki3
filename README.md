@@ -60,6 +60,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Solanki3&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
+<a href="https://github.com/Tejas-Solanki3/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Solanki3&theme=react-dark" alt="Tejas-Solanki3's Contribution Graph" width="900">
+</a>
+
+
 ---
 
 <p align="center">
