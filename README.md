@@ -70,11 +70,7 @@
 
 ---
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejas-Solanki3&show_icons=true&include_all_commits=true&count_private=true&theme=react" alt="GitHub Stats" />
-</p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Solanki3&" alt="Tejas-Solanki" /></p>
 
 
 ---
