@@ -70,7 +70,7 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Solanki3&" alt="Tejas-Solanki" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Solanki3&" alt="Tejas-Solanki" /></p>
 
 
 ---
