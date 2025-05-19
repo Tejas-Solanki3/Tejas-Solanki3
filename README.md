@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tejas Solanki</h1>
-<h3 align="center">A passionate developer from India. I like to code web applications.</h3>
+<img src="banner.png" alt="Tejas Solanki Banner" style="width:100%;"/>
+
 
 - 📫 How to reach me **2024.stejas@isu.ac.in**
 
