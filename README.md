@@ -5,3 +5,5 @@
     width="100%"
   />
 </a>
+
+![snake_gif](https://github.com/Tejas-Solanki3/Tejas-Solanki3/blob/output/github-contribution-grid-snake.gif)
